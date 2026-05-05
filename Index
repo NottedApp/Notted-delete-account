@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Notted - Delete Account</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f7f8fc;
+      color: #222;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    .card {
+      background: #fff;
+      border-radius: 16px;
+      padding: 30px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+    }
+
+    h1 {
+      color: #19026c;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      margin-top: 30px;
+      color: #19026c;
+    }
+
+    ol, ul {
+      padding-left: 22px;
+    }
+
+    .note {
+      background: #f0edff;
+      border-left: 4px solid #19026c;
+      padding: 14px;
+      border-radius: 8px;
+      margin-top: 20px;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 30px;
+      color: #777;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="card">
+      <h1>Delete Your Account – Notted</h1>
+
+      <p>
+        This page explains how users can request deletion of their Notted account
+        and the data associated with it.
+      </p>
+
+      <h2>How to Delete Your Account</h2>
+
+      <ol>
+        <li>Open the Notted app.</li>
+        <li>Go to the Profile page.</li>
+        <li>Tap Delete Account.</li>
+        <li>Confirm the deletion request.</li>
+      </ol>
+
+      <h2>Data That Will Be Deleted</h2>
+
+      <ul>
+        <li>User profile information</li>
+        <li>Personal tasks</li>
+        <li>Board notes</li>
+        <li>Goals and schedule data</li>
+        <li>Media attached to tasks, if applicable</li>
+      </ul>
+
+      <h2>Data Retention</h2>
+
+      <p>
+        Once the account deletion is confirmed, the associated data will be
+        permanently deleted. Some limited information may be retained only if
+        required by law, security, or fraud prevention obligations.
+      </p>
+
+      <h2>Need Help?</h2>
+
+      <p>
+        If you cannot access the app or need help deleting your account, please
+        contact us by email:
+      </p>
+
+      <p>
+        <strong>support@pleroxy.co</strong>
+      </p>
+
+      <div class="note">
+        Please include the email address used for your Notted account when
+        contacting support.
+      </div>
+    </div>
+
+    <footer>
+      © 2026 Notted. All rights reserved.
+    </footer>
+  </div>
+</body>
+</html>
